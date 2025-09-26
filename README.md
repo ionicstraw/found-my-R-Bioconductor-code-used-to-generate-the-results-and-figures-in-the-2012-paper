@@ -17,3 +17,5 @@ library(ggplot2) #//TODO get type = "h" to work with ggplot2, did, its terrible 
 library(lattice)
 library(seqinr)
 ```
+
+do.call, lapply, sapply, ggplot2, lattice, factors etc. etc. wrote my own functions, wrote pre-conditions/post-conditions, did everything myself, taught everything myself, then i taught the post-docs around me some R, in 2012. no youtube/blogs just learned from the R mailing lists, only one R oreilly book, some stackoverflow etc. etc. if i could do that as an undergrad, i can do anything i want. then i ended up in that penn shithole where it was assumed i didnt know anything at all.
